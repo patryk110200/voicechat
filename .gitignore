@@ -267,7 +267,7 @@ __pycache__/
 *.list
 *.rule
 *.filters
-*.vcxproj
+#*.vcxproj
 *.cmake
 *.bin
 /Win32-Debug
